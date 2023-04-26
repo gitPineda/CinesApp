@@ -8,6 +8,7 @@ interface MoviesState {
   popular: Movie[];
   topRated: Movie[];
   upcoming: Movie[];
+  // para pruebas de git
 }
 
 const useMovies = () => {
